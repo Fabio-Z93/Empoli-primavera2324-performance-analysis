@@ -1,8 +1,6 @@
 # Empoli-primavera2324-performance-analysis
 Match performance analysis using xG, Invasion Index, ball possession and physical metrics from WyScout and Gpexe
 
-# Empoli Primavera Performance Analysis
-
 This project analyzes match performance using WyScout and Gpexe data for the 2023/24 season of Empoli U19.
 
 ## Metrics used
